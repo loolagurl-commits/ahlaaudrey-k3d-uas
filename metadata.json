@@ -1,0 +1,6 @@
+{
+  "name": "Nusantara HRIS - Enterprise HRM System",
+  "description": "Sistem Human Resource Management modern berbasis multi-device dengan keamanan data RBAC, audit trail, absensi & cuti, payroll terintegrasi BPJS & PPh 21 TER, recruitment ATS, dan penilaian KPI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
